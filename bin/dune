@@ -1,0 +1,4 @@
+(executable
+ (public_name ego_playground)
+ (name main)
+ (libraries ego_playground ego sexplib))
